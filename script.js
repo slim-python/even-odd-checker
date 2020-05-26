@@ -1,5 +1,5 @@
 function isCheck(){
-    var num =                 document.getElementById('oddeven').value;
+    var num = document.getElementById('oddeven').value;
      if ((num%2) ===0){
 
         document.getElementById('msg').
